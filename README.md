@@ -12,5 +12,5 @@ It's an electron app so setup is easy:
 
 1. Ensure you have node installed on your system, then run these commands:
 2. `cd ./electron` 
-3. `npm run install`
+3. `npm install`
 4. `npm run start`
