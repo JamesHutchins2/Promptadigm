@@ -1,4 +1,5 @@
-# Promptadigm
+# Promptadigm 
+<img src='./electron/assets/p.png'>
 
 Promptadigm is a very simple, and stright forward electron application for creating and editing LLM prompts, and prompt templates.
 
